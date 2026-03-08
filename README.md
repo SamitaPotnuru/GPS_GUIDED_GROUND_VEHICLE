@@ -9,7 +9,7 @@ magnetometer compass, ultrasonic collision avoidance and Bluetooth control.
 - HMC5883L Compass
 - Ublox Neo 6M GPS
 - HC05 Bluetooth
-- Ultrasonic Sensor
+- Sensor
 
 ## Features
 - GPS waypoint navigation
